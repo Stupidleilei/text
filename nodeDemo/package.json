@@ -1,0 +1,23 @@
+{
+  "name": "text",
+  "version": "1.0.0",
+  "description": "zll",
+  "main": "main.js",
+  "scripts": {
+    "test": "make text",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stupidleilei/text.git"
+  },
+  "keywords": [
+    "nodeDemo"
+  ],
+  "author": "zll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stupidleilei/text/issues"
+  },
+  "homepage": "https://github.com/Stupidleilei/text#readme"
+}
